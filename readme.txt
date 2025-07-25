@@ -1,8 +1,9 @@
 Version 1.0 - calculator_app.py
-
-Simple 1 box size calculator
+Date: 2025-07-25
+- Simple 1 box size calculator
 
 Version 2.0 - calculator_app_v2.py
+Date: 2025-07-24
 - UI upgraded
 - added rotate toggle
 - added color chooser
@@ -13,7 +14,8 @@ Version 2.0 - calculator_app_v2.py
 - internally ID box type
 
 
-Version 2.0 - calculator_app_v2.py
+Version 3.0 - calculator_app_v2.py
+Date: 2025-07-25
 - Tidy up UI
 - Added 繁/簡/En
 - Add width and length on diagram
